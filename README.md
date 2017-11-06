@@ -1,2 +1,2 @@
-# propolis-node-microservice-page-template
+# propolis-node-microservice-theme
 Propolis: Microservice: Page
